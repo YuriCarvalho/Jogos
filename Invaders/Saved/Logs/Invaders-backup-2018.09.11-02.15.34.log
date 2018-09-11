@@ -1,0 +1,1533 @@
+﻿Log file open, 09/10/18 21:22:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Invaders
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.284841
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.180s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.11-00.22.52:866][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.11-00.22.52:866][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.11-00.22.52:879][  0]LogHAL: Display: Platform has ~ 12 GB [12844634112 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.11-00.22.52:879][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.11-00.22.52:879][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.11-00.22.52:880][  0]LogInit: Computer: DESKTOP-Q137DVE
+[2018.09.11-00.22.52:880][  0]LogInit: User: yuric
+[2018.09.11-00.22.52:880][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.11-00.22.52:880][  0]LogInit: High frequency timer resolution =3.312785 MHz
+[2018.09.11-00.22.52:880][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2018.09.11-00.22.52:880][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.11-00.22.52:880][  0]LogMemory: Process Physical Memory: 100.18 MB used, 100.18 MB peak
+[2018.09.11-00.22.52:880][  0]LogMemory: Process Virtual Memory: 89.28 MB used, 89.28 MB peak
+[2018.09.11-00.22.52:880][  0]LogMemory: Physical Memory: 5659.46 MB used,  6590.14 MB free, 12249.60 MB total
+[2018.09.11-00.22.52:880][  0]LogMemory: Virtual Memory: 4638.48 MB used,  6590.14 MB free, 134217728.00 MB total
+[2018.09.11-00.22.52:896][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.09.11-00.22.52:896][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.09.11-00.22.53:253][  0]LogStreaming: Display: Took  0.356s to InitEngineTextLocalization.
+[2018.09.11-00.22.53:298][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.11-00.22.53:298][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.11-00.22.53:601][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.11-00.22.53:601][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.11-00.22.53:661][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.09.11-00.22.53:661][  0]LogD3D11RHI:       4053/0/6124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.11-00.22.53:663][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.11-00.22.53:663][  0]LogD3D11RHI:       0/0/6124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.11-00.22.53:664][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.11-00.22.53:669][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.11-00.22.53:669][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.11-00.22.53:669][  0]LogWindows: EnumDisplayDevices:
+[2018.09.11-00.22.53:669][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.09.11-00.22.53:670][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.09.11-00.22.53:670][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.09.11-00.22.53:670][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.09.11-00.22.53:670][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.09.11-00.22.53:670][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.09.11-00.22.53:670][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2018.09.11-00.22.53:670][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2018.09.11-00.22.53:670][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.09.11-00.22.53:718][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.11-00.22.53:759][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.11-00.22.53:807][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (C:/Users/yuric/Documents/Unreal Projects/Invaders/Intermediate/Shaders/WorkingDirectory/5676/).
+[2018.09.11-00.22.53:807][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yuric/AppData/Local/Temp/UnrealShaderWorkingDir/7D249E574859F681D5344696528C9091/'.
+[2018.09.11-00.22.54:106][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.11-00.22.54:121][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.11-00.22.54:136][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.11-00.22.54:156][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.11-00.22.54:183][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.11-00.22.54:201][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.11-00.22.54:216][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.11-00.22.54:231][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.11-00.22.54:239][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:329][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.11-00.22.54:331][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.11-00.22.54:395][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.11-00.22.54:395][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.11-00.22.54:423][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.11-00.22.54:423][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.11-00.22.54:437][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.11-00.22.54:452][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.11-00.22.54:465][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.11-00.22.54:480][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.11-00.22.54:490][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.11-00.22.54:490][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.11-00.22.54:567][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.11-00.22.54:567][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.11-00.22.54:567][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.11-00.22.55:459][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.11-00.22.55:518][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/yuric/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.11-00.22.55:518][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yuric/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.11-00.22.55:518][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/yuric/Documents/Unreal Projects/Invaders/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.11-00.22.55:518][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.11-00.22.55:518][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/yuric/Documents/Unreal Projects/Invaders/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.11-00.22.55:518][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.11-00.22.55:531][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.11-00.22.55:544][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yuric/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.11-00.22.55:544][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.11-00.22.55:544][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.11-00.22.55:564][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.11-00.22.55:565][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.11-00.22.55:566][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.11-00.22.55:650][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.09.11-00.22.56:103][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.11-00.22.56:250][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.11-00.22.56:254][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.11-00.22.56:254][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.11-00.22.56:254][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.11-00.22.56:254][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.11-00.22.56:276][  0]LogNetVersion: Invaders 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 120646506)
+[2018.09.11-00.22.56:811][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.061552 seconds
+[2018.09.11-00.22.56:818][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.11-00.22.56:818][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.11-00.22.56:818][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.11-00.22.57:868][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.11-00.22.57:891][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.11-00.22.58:068][  0]SourceControl: Source control is disabled
+[2018.09.11-00.22.58:068][  0]SourceControl: Source control is disabled
+[2018.09.11-00.22.58:070][  0]SourceControl: Source control is disabled
+[2018.09.11-00.22.58:071][  0]SourceControl: Source control is disabled
+[2018.09.11-00.22.58:262][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.11-00.22.58:350][  0]LogOcInput: OculusInput pre-init called
+[2018.09.11-00.22.58:417][  0]LogEngine: Initializing Engine...
+[2018.09.11-00.22.58:418][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.11-00.22.58:419][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.11-00.22.58:419][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.11-00.22.58:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.11-00.22.58:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.11-00.22.58:673][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.11-00.22.58:687][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.11-00.22.58:711][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-00.22.58:742][  0]LogInit: FAudioDevice initialized.
+[2018.09.11-00.22.58:742][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.11-00.22.58:866][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/yuric/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.11-00.22.58:869][  0]LogInit: Texture streaming: Enabled
+[2018.09.11-00.22.58:890][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.11-00.22.58:906][  0]LogInit: Transaction tracking system initialized
+[2018.09.11-00.22.58:932][  0]BlueprintLog: New page: Editor Load
+[2018.09.11-00.22.59:069][  0]LocalizationService: Localization service is disabled
+[2018.09.11-00.22.59:380][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.11-00.22.59:380][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.11-00.22.59:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/' took 0.01s
+[2018.09.11-00.22.59:380][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.11-00.22.59:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.11-00.22.59:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.11-00.22.59:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.11-00.22.59:380][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.11-00.22.59:526][  0]SourceControl: Source control is disabled
+[2018.09.11-00.22.59:526][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.11-00.22.59:527][  0]LightingResults: New page: Lighting Build
+[2018.09.11-00.22.59:530][  0]MapCheck: New page: Map Check
+[2018.09.11-00.22.59:530][  0]LightingResults: New page: Lighting Build
+[2018.09.11-00.22.59:792][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.09.11-00.22.59:799][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.11-00.22.59:818][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.11-00.22.59:978][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 159.049ms to complete.
+[2018.09.11-00.22.59:978][  0]LogFileHelpers: Loading map 'Template_Default' took 0.452
+[2018.09.11-00.23.00:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.23.00:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.23.00:094][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.23.00:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.23.00:108][  0]LogCollectionManager: Loaded 0 collections in 0.001719 seconds
+[2018.09.11-00.23.00:156][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Collections/' took 0.01s
+[2018.09.11-00.23.00:156][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Developers/yuric/Collections/' took 0.01s
+[2018.09.11-00.23.00:156][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Collections/' took 0.01s
+[2018.09.11-00.23.00:156][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.11-00.23.00:166][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2572 classes and 603 folders.
+[2018.09.11-00.23.00:174][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.11-00.23.00:252][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.11-00.23.00:258][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.09.11-00.23.00:274][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.11-00.23.00:276][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.11-00.23.00:283][  0]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.11-00.23.00:368][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.09.11-00.23.00:481][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.11-00.23.00:481][  0]LogLoad: (Engine Initialization) Total time: 9.81 seconds
+[2018.09.11-00.23.00:481][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.11-00.23.00:491][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.11-00.23.00:516][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.11-00.23.00:593][  1]LogAssetRegistry: Asset discovery search completed in 4.9658 seconds
+[2018.09.11-00.23.00:594][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.11-00.23.00:595][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2018.09.11-00.23.09:155][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.23.10:394][689]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.11-00.23.10:408][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.23.13:506][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.23.34:779][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.24.07:853][862]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.11-00.24.07:864][862]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/yuric/Desktop/Sprites/Sprite1.1_aviao.png)
+[2018.09.11-00.24.07:866][862]LogTexture: Display: Building textures: Sprite1_1_aviao (BGRA8, 52X78)
+[2018.09.11-00.24.07:874][862]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/yuric/Desktop/Sprites/Sprite1.2_nave_inimiga.png)
+[2018.09.11-00.24.07:876][862]LogTexture: Display: Building textures: Sprite1_2_nave_inimiga (AutoDXT, 64X64)
+[2018.09.11-00.24.07:890][862]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/yuric/Desktop/Sprites/Sprite1.3_tiro.png)
+[2018.09.11-00.24.07:893][862]LogTexture: Display: Building textures: Sprite1_3_tiro (BGRA8, 7X7)
+[2018.09.11-00.24.07:900][862]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/yuric/Desktop/Sprites/Sprite1.4_vidas.png)
+[2018.09.11-00.24.07:902][862]LogTexture: Display: Building textures: Sprite1_4_vidas (BGRA8, 50X30)
+[2018.09.11-00.24.07:910][862]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/yuric/Desktop/Sprites/Spritedn28086-1_800.png)
+[2018.09.11-00.24.07:919][862]LogTexture: Display: Building textures: Spritedn28086-1_800 (BGRA8, 800X533)
+[2018.09.11-00.24.12:373][382]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.11-00.24.13:677][524]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.24.18:736][104]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.24.22:793][564]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.24.27:096][ 53]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.24.37:734][282]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.24.54:641][936]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Assets/Paper2D/Sprite1_1_aviao_Sprite_0.Sprite1_1_aviao_Sprite_0
+[2018.09.11-00.25.02:495][822]LogSlate: Window 'Sprite1_1_aviao_Sprite_0*' being destroyed
+[2018.09.11-00.25.02:498][822]LogSlate: Window 'Sprite1_1_aviao_Sprite_0*' being destroyed
+[2018.09.11-00.25.05:881][ 69]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.25.07:747][174]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.25.09:880][315]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.25.11:933][459]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.25.13:877][567]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.25.15:213][719]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/Paper2D/Sprite1_1_aviao.Sprite1_1_aviao
+[2018.09.11-00.25.15:218][719]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.11-00.26.10:191][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Sprite1_1_aviao" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_1_aviao.uasset" SILENT=true
+[2018.09.11-00.26.10:202][633]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_1_aviaoD58C9EE24CF00D6B7EF27D82B3795D5A.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_1_aviao.uasset'
+[2018.09.11-00.26.11:063][735]LogSlate: Window 'Sprite1_1_aviao' being destroyed
+[2018.09.11-00.26.11:067][735]LogSlate: Window 'Sprite1_1_aviao' being destroyed
+[2018.09.11-00.26.11:996][840]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/Paper2D/Sprite1_2_nave_inimiga.Sprite1_2_nave_inimiga
+[2018.09.11-00.26.15:913][292]LogTexture: Display: Building textures: Sprite1_2_nave_inimiga (BGRA8, 64X64)
+[2018.09.11-00.26.19:535][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Sprite1_2_nave_inimiga" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_2_nave_inimiga.uasset" SILENT=true
+[2018.09.11-00.26.19:544][721]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_2_nave_inimiga2FAF5EC942B4E0CED454E2A290B83B6E.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_2_nave_inimiga.uasset'
+[2018.09.11-00.26.20:381][819]LogSlate: Window 'Sprite1_2_nave_inimiga' being destroyed
+[2018.09.11-00.26.20:384][819]LogSlate: Window 'Sprite1_2_nave_inimiga' being destroyed
+[2018.09.11-00.26.21:773][979]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/Paper2D/Sprite1_3_tiro.Sprite1_3_tiro
+[2018.09.11-00.26.32:810][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Sprite1_3_tiro" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_3_tiro.uasset" SILENT=true
+[2018.09.11-00.26.32:819][280]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_3_tiro10466E9D43EF207F27145499EE1825D9.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_3_tiro.uasset'
+[2018.09.11-00.26.33:678][381]LogSlate: Window 'Sprite1_3_tiro' being destroyed
+[2018.09.11-00.26.33:681][381]LogSlate: Window 'Sprite1_3_tiro' being destroyed
+[2018.09.11-00.26.34:692][496]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/Paper2D/Sprite1_4_vidas.Sprite1_4_vidas
+[2018.09.11-00.26.41:669][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Sprite1_4_vidas" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_4_vidas.uasset" SILENT=true
+[2018.09.11-00.26.41:679][309]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_4_vidasDCE8732D4FC220634AFEBF915FB05C40.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_4_vidas.uasset'
+[2018.09.11-00.26.42:444][399]LogSlate: Window 'Sprite1_4_vidas' being destroyed
+[2018.09.11-00.26.42:447][399]LogSlate: Window 'Sprite1_4_vidas' being destroyed
+[2018.09.11-00.26.43:506][520]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Assets/Paper2D/Spritedn28086-1_800.Spritedn28086-1_800
+[2018.09.11-00.26.53:157][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Spritedn28086-1_800" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Spritedn28086-1_800.uasset" SILENT=true
+[2018.09.11-00.26.53:220][654]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Spritedn28086-1_80031D028D34CACCCE95AB8B2825DF7699A.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Spritedn28086-1_800.uasset'
+[2018.09.11-00.26.54:208][771]LogSlate: Window 'Spritedn28086-1_800' being destroyed
+[2018.09.11-00.26.54:211][771]LogSlate: Window 'Spritedn28086-1_800' being destroyed
+[2018.09.11-00.27.07:253][487]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.27.11:379][955]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.27.15:805][461]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.27.19:062][825]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.27.23:212][286]LogSlate: Window 'Extract sprites' being destroyed
+[2018.09.11-00.27.46:586][655]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.11-00.28.11:982][ 27]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Assets/Paper2D/Spritedn28086-1_800_Sprite_0.Spritedn28086-1_800_Sprite_0
+[2018.09.11-00.28.12:135][ 27]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2018.09.11-00.28.13:237][132]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.11-00.28.14:697][291]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Spritedn28086-1_800_Sprite_0BC3E7441457E02A4132BEA9E662B80BB.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Spritedn28086-1_800_Sprite_0.uasset'
+[2018.09.11-00.28.16:312][479]LogSlate: Window 'Spritedn28086-1_800_Sprite_0' being destroyed
+[2018.09.11-00.28.16:315][479]LogSlate: Window 'Spritedn28086-1_800_Sprite_0' being destroyed
+[2018.09.11-00.28.43:847][ 96]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.11-00.29.05:374][308]LogSlate: Window 'Save Level As' being destroyed
+[2018.09.11-00.29.05:561][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.29.05:612][308]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NewMap686E8BFD4038B2B1AC3FADB1F32D10F4.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/NewMap.umap'
+[2018.09.11-00.29.05:630][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2018.09.11-00.29.05:648][308]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NewMap_BuiltData3A46421B4CEBD84FE8E097AF7EB62215.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/NewMap_BuiltData.uasset'
+[2018.09.11-00.29.05:656][308]LogFileHelpers: Saving map 'NewMap' took 0.277
+[2018.09.11-00.29.21:866][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-00.29.21:882][416]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData74FFA3764F1DBCE9711300B245C46F9E.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-00.29.22:052][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.29.22:100][416]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap777A8C084BCFF4649E191BAC870B5BC9.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-00.29.22:118][416]LogFileHelpers: Saving map 'GameMap' took 0.228
+[2018.09.11-00.29.35:474][108]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.11-00.29.35:517][108]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Invaders
+[2018.09.11-00.29.35:517][108]LogTemp: CWD: F:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-00.29.35:517][108]LogTemp: Initial Dir: F:\Program Files (x86)\Epic Games\UE_4.20
+[2018.09.11-00.29.35:517][108]LogTemp: Env CWD: F:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-00.29.35:522][108]LogTemp: BranchPath = DESKTOP-Q137DVE/F/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-Q137DVE/F/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.11-00.29.35:539][108]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\yuric\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.11-00.29.42:622][934]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.11-00.30.01:665][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.09.11-00.30.02:779][543]Cmd: DELETE
+[2018.09.11-00.30.02:780][543]Cmd: ACTOR DELETE
+[2018.09.11-00.30.02:782][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.11-00.30.02:800][543]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.09.11-00.30.03:886][673]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.09.11-00.30.04:376][727]Cmd: DELETE
+[2018.09.11-00.30.04:376][727]Cmd: ACTOR DELETE
+[2018.09.11-00.30.04:377][727]LogEditorActor: Deleted Actor: PlayerStart
+[2018.09.11-00.30.04:397][727]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.09.11-00.30.09:104][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.30.09:979][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.30.10:029][ 44]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap5CA229E142AD42F2250394A093C354DE.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-00.30.10:053][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-00.30.10:073][ 44]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltDataACBFCE314FE0AC8F4063B2948C09CA21.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-00.30.28:203][321]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.11-00.30.42:763][928]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.11-00.31.13:219][829]LogMetaData: Removing '/Game/Blueprints/NavePlayerPawn_BP.NavePlayerPawn_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.31.13:219][829]LogMetaData: Removing '/Game/Blueprints/NavePlayerPawn_BP.SKEL_NavePlayerPawn_BP_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.31.13:219][829]LogMetaData: Removing '/Game/Blueprints/NavePlayerPawn_BP.NavePlayerPawn_BP_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.31.13:219][829]LogMetaData: Removing '/Game/Blueprints/NavePlayerPawn_BP.NavePlayerPawn_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.31.13:219][829]LogMetaData: Removing '/Game/Blueprints/NavePlayerPawn_BP.NavePlayerPawn_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.31.13:219][829]LogMetaData: Removing '/Game/Blueprints/NavePlayerPawn_BP.NavePlayerPawn_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.31.13:235][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-00.31.13:250][829]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BPDEA050B64E6369C755B3809CC3EB4E8F.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-00.31.17:352][ 97]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.11-00.31.24:493][775]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.11-00.31.33:262][166]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.11-00.32.13:164][830]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.11-00.32.35:271][237]LogMetaData: Removing '/Game/Blueprints/NavePlayerController_BP.NavePlayerController_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.32.35:271][237]LogMetaData: Removing '/Game/Blueprints/NavePlayerController_BP.SKEL_NavePlayerController_BP_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.32.35:271][237]LogMetaData: Removing '/Game/Blueprints/NavePlayerController_BP.NavePlayerController_BP_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.32.35:271][237]LogMetaData: Removing '/Game/Blueprints/NavePlayerController_BP.NavePlayerController_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.32.35:271][237]LogMetaData: Removing '/Game/Blueprints/NavePlayerController_BP.NavePlayerController_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2018.09.11-00.32.35:290][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerController_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerController_BP.uasset" SILENT=true
+[2018.09.11-00.32.35:304][237]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerController_BP07E2887F45F5EE5C8BC2D29B1E9AC8B7.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerController_BP.uasset'
+[2018.09.11-00.32.43:154][497]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NaveGameMode_BP.NaveGameMode_BP
+[2018.09.11-00.32.43:673][497]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.09.11-00.32.55:335][913]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.11-00.33.35:314][208]BlueprintLog: New page: Compile NaveGameMode_BP
+[2018.09.11-00.33.35:950][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NaveGameMode_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NaveGameMode_BP.uasset" SILENT=true
+[2018.09.11-00.33.35:964][258]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NaveGameMode_BP39EA5E9340580DD497089DB6BEBB1E2D.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NaveGameMode_BP.uasset'
+[2018.09.11-00.33.36:533][322]BlueprintLog: New page: Compile NaveGameMode_BP
+[2018.09.11-00.33.37:057][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NaveGameMode_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NaveGameMode_BP.uasset" SILENT=true
+[2018.09.11-00.33.37:077][362]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NaveGameMode_BP30E12DAE4E65469C3389C39DB07290FB.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NaveGameMode_BP.uasset'
+[2018.09.11-00.33.37:508][410]BlueprintLog: New page: Compile NaveGameMode_BP
+[2018.09.11-00.33.37:971][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NaveGameMode_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NaveGameMode_BP.uasset" SILENT=true
+[2018.09.11-00.33.37:984][443]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NaveGameMode_BPC6D905254627C35C2A4E4F9B7BD8FB50.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NaveGameMode_BP.uasset'
+[2018.09.11-00.33.40:271][700]LogSlate: Window 'NaveGameMode_BP' being destroyed
+[2018.09.11-00.33.48:208][112]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.11-00.33.48:274][113]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Invaders
+[2018.09.11-00.33.48:274][113]LogTemp: CWD: F:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-00.33.48:274][113]LogTemp: Initial Dir: F:\Program Files (x86)\Epic Games\UE_4.20
+[2018.09.11-00.33.48:274][113]LogTemp: Env CWD: F:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-00.33.48:274][113]LogTemp: BranchPath = DESKTOP-Q137DVE/F/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-Q137DVE/F/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.11-00.33.48:274][113]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\yuric\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.11-00.34.00:000][888]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.11-00.34.05:705][562]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.11-00.34.05:708][562]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.11-00.34.12:982][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.34.13:029][804]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap01E38D154508744EB5AE91A6F996A152.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-00.34.13:052][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-00.34.13:067][804]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltDataEFD29C624ED57B5C45140AAE4C7A1CF0.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-00.34.15:151][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.34.15:172][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.34.15:184][ 53]PIE: New page: PIE session: GameMap (Sep 10, 2018, 6:34:15 PM)
+[2018.09.11-00.34.15:184][ 53]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-00.34.15:187][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002319s)
+[2018.09.11-00.34.15:187][ 53]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-00.34.15:188][ 53]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2018.09.11-00.34.15:188][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003369s)
+[2018.09.11-00.34.15:229][ 53]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-00.34.15:241][ 53]LogInit: FAudioDevice initialized.
+[2018.09.11-00.34.15:285][ 53]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-00.34.15:287][ 53]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-21.34.15
+[2018.09.11-00.34.15:287][ 53]LogWorld: Bringing up level for play took: 0.000607
+[2018.09.11-00.34.15:305][ 53]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.09.11-00.34.15:306][ 53]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.299
+[2018.09.11-00.34.19:758][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.34.19:794][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.34.19:817][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.34.19:862][585]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.09.11-00.34.42:890][827]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.34.43:826][914]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BackgroundActor_BP.BackgroundActor_BP
+[2018.09.11-00.35.29:422][860]BlueprintLog: New page: Compile BackgroundActor_BP
+[2018.09.11-00.35.30:039][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BackgroundActor_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/BackgroundActor_BP.uasset" SILENT=true
+[2018.09.11-00.35.30:055][900]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/BackgroundActor_BPE2AD904743CA0907DFACFAB1B766E39A.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/BackgroundActor_BP.uasset'
+[2018.09.11-00.35.37:326][129]LogSlate: Window 'BackgroundActor_BP' being destroyed
+[2018.09.11-00.36.08:207][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.36.29:362][677]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.36.30:756][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.32:691][ 66]Cmd: TRANSACTION UNDO
+[2018.09.11-00.36.32:691][ 66]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.11-00.36.33:798][190]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.36.35:639][404]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.36.36:522][507]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.36:972][561]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.37:112][577]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.36.37:337][600]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.37:378][602]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.09.11-00.36.37:552][615]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.37:843][650]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.38:243][697]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.09.11-00.36.38:694][748]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.36.39:712][866]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.36.45:160][502]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.36.45:929][590]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.36.46:350][628]LogEditorViewport: Clicking Background
+[2018.09.11-00.36.47:188][715]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.36.54:343][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.36.56:098][775]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.56:098][775]Can't find target actor or component.
+[2018.09.11-00.36.56:737][852]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.56:737][852]Can't find target actor or component.
+[2018.09.11-00.36.57:188][906]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.57:188][906]Can't find target actor or component.
+[2018.09.11-00.36.57:578][953]LogEditorViewport: Clicking Background
+[2018.09.11-00.36.57:675][964]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.57:675][964]Can't find target actor or component.
+[2018.09.11-00.36.58:070][ 11]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.58:070][ 11]Can't find target actor or component.
+[2018.09.11-00.36.58:657][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.58:657][ 81]Can't find target actor or component.
+[2018.09.11-00.36.58:994][121]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.58:994][121]Can't find target actor or component.
+[2018.09.11-00.36.59:273][154]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.36.59:273][154]Can't find target actor or component.
+[2018.09.11-00.36.59:882][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.37.04:263][730]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.37.04:263][730]Can't find target actor or component.
+[2018.09.11-00.37.04:714][784]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.37.04:780][787]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.37.05:247][833]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.37.05:863][906]LogEditorViewport: Clicking Background
+[2018.09.11-00.37.05:977][918]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.37.05:977][918]Can't find target actor or component.
+[2018.09.11-00.37.06:271][953]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.37.06:271][953]Can't find target actor or component.
+[2018.09.11-00.37.06:438][973]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.37.06:438][973]Can't find target actor or component.
+[2018.09.11-00.37.06:596][992]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.37.06:596][992]Can't find target actor or component.
+[2018.09.11-00.37.06:747][ 10]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.37.06:747][ 10]Can't find target actor or component.
+[2018.09.11-00.37.07:867][144]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.37.08:890][261]LogEditorViewport: Clicking Background
+[2018.09.11-00.37.40:376][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.37.43:593][213]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BackgroundActor_BP.BackgroundActor_BP
+[2018.09.11-00.37.50:072][891]LogSlate: Window 'BackgroundActor_BP' being destroyed
+[2018.09.11-00.37.50:075][891]LogSlate: Window 'BackgroundActor_BP' being destroyed
+[2018.09.11-00.38.06:607][856]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.09.11-00.38.06:611][856]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.09.11-00.38.10:776][354]LogEditorViewport: Clicking Background
+[2018.09.11-00.38.11:665][460]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.38.12:965][611]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.13:819][712]LogEditorViewport: Clicking Background
+[2018.09.11-00.38.14:150][750]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.14:150][750]Can't find target actor or component.
+[2018.09.11-00.38.14:391][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.14:391][779]Can't find target actor or component.
+[2018.09.11-00.38.14:583][802]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.14:583][802]Can't find target actor or component.
+[2018.09.11-00.38.14:783][826]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.14:783][826]Can't find target actor or component.
+[2018.09.11-00.38.15:050][858]LogEditorViewport: Clicking Background
+[2018.09.11-00.38.15:179][873]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.15:179][873]Can't find target actor or component.
+[2018.09.11-00.38.15:366][895]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.15:366][895]Can't find target actor or component.
+[2018.09.11-00.38.15:512][912]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.15:512][912]Can't find target actor or component.
+[2018.09.11-00.38.15:774][943]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.38.16:553][ 31]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.38.17:016][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.17:992][200]LogEditorViewport: Clicking Background
+[2018.09.11-00.38.18:372][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.18:372][244]Can't find target actor or component.
+[2018.09.11-00.38.18:580][269]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.18:580][269]Can't find target actor or component.
+[2018.09.11-00.38.18:738][288]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.18:738][288]Can't find target actor or component.
+[2018.09.11-00.38.18:905][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.18:905][308]Can't find target actor or component.
+[2018.09.11-00.38.19:030][323]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.38.19:030][323]Can't find target actor or component.
+[2018.09.11-00.38.21:826][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.38.24:557][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.38.26:817][214]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.38.27:741][319]LogEditorViewport: Clicking Background
+[2018.09.11-00.38.28:220][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.38.28:286][383]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.38.28:299][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.38.28:299][383]PIE: New page: PIE session: GameMap (Sep 10, 2018, 6:38:28 PM)
+[2018.09.11-00.38.28:299][383]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-00.38.28:302][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002474s)
+[2018.09.11-00.38.28:303][383]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-00.38.28:303][383]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2018.09.11-00.38.28:303][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003934s)
+[2018.09.11-00.38.28:348][383]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-00.38.28:360][383]LogInit: FAudioDevice initialized.
+[2018.09.11-00.38.28:391][383]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-00.38.28:392][383]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-21.38.28
+[2018.09.11-00.38.28:392][383]LogWorld: Bringing up level for play took: 0.000623
+[2018.09.11-00.38.28:405][383]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.801
+[2018.09.11-00.38.37:934][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.38.37:966][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.38.37:989][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.38.38:042][528]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.09.11-00.38.51:399][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.38.59:571][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.02:183][419]LogSlate: Window 'Undo History' being destroyed
+[2018.09.11-00.39.02:186][419]LogSlate: Window 'Undo History' being destroyed
+[2018.09.11-00.39.04:094][647]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.04:902][744]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.04:902][744]LogEditorTransaction: Undo Clicking Background
+[2018.09.11-00.39.05:926][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.06:550][929]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.06:550][929]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.11-00.39.07:061][989]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.07:564][ 49]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.07:564][ 49]LogEditorTransaction: Undo Clicking Background
+[2018.09.11-00.39.08:289][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.09:309][250]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.09:309][250]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.11-00.39.10:074][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.10:835][429]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.10:835][429]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.11-00.39.11:495][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.11:965][563]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.11:965][563]LogEditorTransaction: Undo Clicking Background
+[2018.09.11-00.39.12:634][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.13:527][749]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.13:527][749]LogEditorTransaction: Undo Clicking Background
+[2018.09.11-00.39.15:246][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.15:964][ 34]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.15:965][ 34]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.11-00.39.16:426][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.18:444][330]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.18:444][330]LogEditorTransaction: Undo Clicking Background
+[2018.09.11-00.39.19:014][397]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.19:466][451]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.19:466][451]LogEditorTransaction: Undo Clicking Background
+[2018.09.11-00.39.19:817][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.20:311][546]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.20:311][546]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.11-00.39.20:748][597]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.21:234][655]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.21:234][655]LogEditorTransaction: Undo Clicking Background
+[2018.09.11-00.39.21:693][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.23:692][944]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.23:692][944]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.11-00.39.24:145][997]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.24:655][ 58]Cmd: TRANSACTION UNDO
+[2018.09.11-00.39.24:655][ 58]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.11-00.39.25:242][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.39.40:628][961]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.39.41:911][109]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.39.52:596][351]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-00.39.53:715][481]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.39.54:796][609]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.40.29:680][454]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.40.30:587][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.40.34:766][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.40.35:503][147]Cmd: TRANSACTION UNDO
+[2018.09.11-00.40.35:503][147]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.11-00.40.38:759][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.40.44:745][244]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-00.40.45:412][320]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.40.45:887][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.11-00.40.47:003][510]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.40.59:357][237]Cmd: TRANSACTION UNDO
+[2018.09.11-00.40.59:357][237]LogEditorTransaction: Undo Move Actors
+[2018.09.11-00.40.59:703][273]Cmd: TRANSACTION UNDO
+[2018.09.11-00.40.59:703][273]LogEditorTransaction: Undo Move Actors
+[2018.09.11-00.41.00:457][359]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.41.00:500][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.41.01:160][437]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.09.11-00.41.01:551][481]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.09.11-00.41.02:075][539]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Sky Sphere mesh)
+[2018.09.11-00.41.03:397][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.42.00:994][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.42.45:842][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.43.23:640][480]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-00.43.35:191][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.43.51:501][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.43.51:606][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.43.51:664][684]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap374F23404693FC3AB7816FA4A4B77AF9.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-00.43.51:689][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-00.43.51:715][684]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltDataE5BD6F9F4126BCC1093C46A75A07961C.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-00.43.53:111][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.43.53:185][859]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.43.53:198][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.43.53:198][859]PIE: New page: PIE session: GameMap (Sep 10, 2018, 6:43:53 PM)
+[2018.09.11-00.43.53:198][859]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-00.43.53:200][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002272s)
+[2018.09.11-00.43.53:201][859]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-00.43.53:201][859]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2018.09.11-00.43.53:201][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003443s)
+[2018.09.11-00.43.53:276][859]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-00.43.53:287][859]LogInit: FAudioDevice initialized.
+[2018.09.11-00.43.53:319][859]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-00.43.53:321][859]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-21.43.53
+[2018.09.11-00.43.53:321][859]LogWorld: Bringing up level for play took: 0.000666
+[2018.09.11-00.43.53:334][859]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.271
+[2018.09.11-00.43.56:775][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.43.56:806][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.43.56:832][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.43.56:877][274]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.09.11-00.43.58:146][426]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-00.44.08:477][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.44.17:620][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.44.17:725][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.44.17:774][743]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMapDF883E3945700FE84A7DD090B8C0BEF8.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-00.44.17:797][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-00.44.17:813][743]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData94D6477D461BCA21B22D2BA57DC2DA30.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-00.44.39:715][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.44.46:521][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.44.46:579][228]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.44.46:591][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.44.46:591][228]PIE: New page: PIE session: GameMap (Sep 10, 2018, 6:44:46 PM)
+[2018.09.11-00.44.46:592][228]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-00.44.46:594][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002240s)
+[2018.09.11-00.44.46:595][228]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-00.44.46:595][228]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.09.11-00.44.46:595][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003314s)
+[2018.09.11-00.44.46:668][228]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-00.44.46:679][228]LogInit: FAudioDevice initialized.
+[2018.09.11-00.44.46:711][228]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-00.44.46:713][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-21.44.46
+[2018.09.11-00.44.46:713][228]LogWorld: Bringing up level for play took: 0.000675
+[2018.09.11-00.44.46:726][228]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 1.121
+[2018.09.11-00.44.52:791][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.44.52:826][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.44.52:851][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.44.52:896][951]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.09.11-00.45.16:882][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.45.16:949][817]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.45.16:962][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.45.16:962][817]PIE: New page: PIE session: GameMap (Sep 10, 2018, 6:45:16 PM)
+[2018.09.11-00.45.16:962][817]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-00.45.16:964][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002226s)
+[2018.09.11-00.45.16:965][817]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-00.45.16:965][817]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2018.09.11-00.45.16:965][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003339s)
+[2018.09.11-00.45.17:003][817]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-00.45.17:014][817]LogInit: FAudioDevice initialized.
+[2018.09.11-00.45.17:042][817]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-00.45.17:044][817]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-21.45.17
+[2018.09.11-00.45.17:044][817]LogWorld: Bringing up level for play took: 0.000657
+[2018.09.11-00.45.17:057][817]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.547
+[2018.09.11-00.45.21:888][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.45.21:921][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.45.21:947][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.45.21:991][399]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.09.11-00.45.45:359][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.45.45:426][880]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.45.45:439][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.45.45:439][880]PIE: New page: PIE session: GameMap (Sep 10, 2018, 6:45:45 PM)
+[2018.09.11-00.45.45:439][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-00.45.45:441][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002226s)
+[2018.09.11-00.45.45:442][880]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-00.45.45:442][880]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2018.09.11-00.45.45:442][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003116s)
+[2018.09.11-00.45.45:486][880]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-00.45.45:498][880]LogInit: FAudioDevice initialized.
+[2018.09.11-00.45.45:528][880]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-00.45.45:530][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-21.45.45
+[2018.09.11-00.45.45:530][880]LogWorld: Bringing up level for play took: 0.000659
+[2018.09.11-00.45.45:543][880]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.061
+[2018.09.11-00.45.50:740][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.45.50:774][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.45.50:801][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.45.50:847][505]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.09.11-00.46.39:140][976]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-00.46.41:652][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.46.41:744][283]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BackgroundActor_BP.BackgroundActor_BP
+[2018.09.11-00.47.03:475][149]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.47.05:609][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.47.19:184][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.47.27:547][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.47.27:603][303]LogSlate: Window 'BackgroundActor_BP' being destroyed
+[2018.09.11-00.47.27:607][303]LogSlate: Window 'BackgroundActor_BP' being destroyed
+[2018.09.11-00.47.29:881][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.47.30:007][578]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/Assets/Paper2D/Spritedn28086-1_800_Sprite_0.Spritedn28086-1_800_Sprite_0
+[2018.09.11-00.48.11:858][ 43]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-00.48.25:160][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.48.27:891][589]LogSlate: Window 'Spritedn28086-1_800_Sprite_0' being destroyed
+[2018.09.11-00.48.29:059][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.48.37:712][983]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-00.48.39:877][230]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-00.48.40:731][325]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-00.48.47:491][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-00.48.53:308][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.49.48:605][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.50.42:604][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.50.45:639][578]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.50.45:652][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.50.45:652][578]PIE: New page: PIE session: GameMap (Sep 10, 2018, 6:50:45 PM)
+[2018.09.11-00.50.45:652][578]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-00.50.45:655][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002874s)
+[2018.09.11-00.50.45:656][578]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-00.50.45:656][578]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2018.09.11-00.50.45:656][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003938s)
+[2018.09.11-00.50.45:729][578]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-00.50.45:741][578]LogInit: FAudioDevice initialized.
+[2018.09.11-00.50.45:773][578]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-00.50.45:774][578]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-21.50.45
+[2018.09.11-00.50.45:775][578]LogWorld: Bringing up level for play took: 0.000699
+[2018.09.11-00.50.45:787][578]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.182
+[2018.09.11-00.50.50:270][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.50.50:305][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.50.50:329][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.50.50:376][118]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.09.11-00.50.55:914][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.51.04:818][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.51.04:876][108]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-00.51.04:889][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-00.51.04:889][108]PIE: New page: PIE session: GameMap (Sep 10, 2018, 6:51:04 PM)
+[2018.09.11-00.51.04:890][108]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-00.51.04:892][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002460s)
+[2018.09.11-00.51.04:893][108]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-00.51.04:893][108]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2018.09.11-00.51.04:893][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003431s)
+[2018.09.11-00.51.04:937][108]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-00.51.04:950][108]LogInit: FAudioDevice initialized.
+[2018.09.11-00.51.04:983][108]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-00.51.04:984][108]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-21.51.04
+[2018.09.11-00.51.04:985][108]LogWorld: Bringing up level for play took: 0.000691
+[2018.09.11-00.51.04:998][108]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.607
+[2018.09.11-00.51.15:533][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.51.24:764][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.52.00:016][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.52.00:049][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-00.52.00:075][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-00.52.00:119][554]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.09.11-00.52.01:932][771]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-00.52.05:916][232]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-00.52.09:744][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.52.09:825][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.52.09:880][691]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap54FECD5542CBD475778297842CB56BBF.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-00.52.09:906][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-00.52.09:927][691]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData0188C7894E24E6FF6875DB83A33BE706.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-00.52.10:971][812]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-00.52.11:559][878]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-00.52.14:973][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.52.15:061][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-00.52.15:114][281]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap344E277A4FB3AC254335D8A20F5B6F60.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-00.52.15:137][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-00.52.15:153][281]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData3DF78489451E3F18F95CDD8C7C3DF244.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-00.52.16:646][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.52.20:367][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.56.24:468][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.56.29:086][663]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NavePlayerPawn_BP.NavePlayerPawn_BP
+[2018.09.11-00.57.33:168][280]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-00.57.33:631][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-00.57.33:656][297]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BPBD776266440BBBEE5077F4B9923CA0B1.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-00.58.13:822][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.58.15:536][ 99]LogSlate: Window 'NavePlayerPawn_BP' being destroyed
+[2018.09.11-00.58.15:952][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.58.21:190][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.58.36:380][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-00.59.27:285][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Animations/Nave" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Animations/Nave.uasset" SILENT=true
+[2018.09.11-00.59.27:296][114]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Nave81A18A754F4EE16C98FF40AC7C8F3E0B.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Animations/Nave.uasset'
+[2018.09.11-00.59.42:598][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Animations/NaveP_Animation" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Animations/NaveP_Animation.uasset" SILENT=true
+[2018.09.11-00.59.42:611][672]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NaveP_AnimationDBB0227A45A7D454DC114087ADAAFB47.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Animations/NaveP_Animation.uasset'
+[2018.09.11-01.00.08:951][152]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Assets/Paper2D/Animations/NaveP_Animation.NaveP_Animation
+[2018.09.11-01.02.22:223][794]LogAssetEditorManager: Opening Asset editor for PaperFlipbook /Game/Assets/Paper2D/Animations/NaveP_Animation.NaveP_Animation
+[2018.09.11-01.02.31:693][907]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/GameMap' took 0.024
+[2018.09.11-01.02.31:712][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Paper2D/Sprite1_4_vidas_Sprite_0] ([1] browsable assets)...
+[2018.09.11-01.02.31:721][907]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Paper2D/Sprite1_4_vidas_Sprite_0.Sprite1_4_vidas_Sprite_0]
+[2018.09.11-01.02.31:721][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Paper2D/Sprite1_4_vidas_Sprite_0]
+[2018.09.11-01.02.31:733][907]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_4_vidas_Sprite_0_Auto103201606476575D8ED35828F538F08E4.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Autosaves/Game/Assets/Paper2D/Sprite1_4_vidas_Sprite_0_Auto1.uasset'
+[2018.09.11-01.02.31:736][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Paper2D/Sprite1_3_tiro_Sprite_0] ([1] browsable assets)...
+[2018.09.11-01.02.31:744][907]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Paper2D/Sprite1_3_tiro_Sprite_0.Sprite1_3_tiro_Sprite_0]
+[2018.09.11-01.02.31:744][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Paper2D/Sprite1_3_tiro_Sprite_0]
+[2018.09.11-01.02.31:754][907]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_3_tiro_Sprite_0_Auto1A58A0F524BCD123517C6619AF9633F4D.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Autosaves/Game/Assets/Paper2D/Sprite1_3_tiro_Sprite_0_Auto1.uasset'
+[2018.09.11-01.02.31:758][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Paper2D/Sprite1_2_nave_inimiga_Sprite_0] ([1] browsable assets)...
+[2018.09.11-01.02.31:766][907]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Paper2D/Sprite1_2_nave_inimiga_Sprite_0.Sprite1_2_nave_inimiga_Sprite_0]
+[2018.09.11-01.02.31:766][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Paper2D/Sprite1_2_nave_inimiga_Sprite_0]
+[2018.09.11-01.02.31:777][907]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_2_nave_inimiga_Sprite_0_A5804A3145E51A6DFA27208DEF95161D.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Autosaves/Game/Assets/Paper2D/Sprite1_2_nave_inimiga_Sprite_0_Auto1.uasset'
+[2018.09.11-01.02.31:781][907]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Paper2D/Sprite1_1_aviao_Sprite_0] ([1] browsable assets)...
+[2018.09.11-01.02.31:789][907]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Assets/Paper2D/Sprite1_1_aviao_Sprite_0.Sprite1_1_aviao_Sprite_0]
+[2018.09.11-01.02.31:789][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Paper2D/Sprite1_1_aviao_Sprite_0]
+[2018.09.11-01.02.31:800][907]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_1_aviao_Sprite_0_Auto183079F12457A65AB08347C902FF71F64.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Autosaves/Game/Assets/Paper2D/Sprite1_1_aviao_Sprite_0_Auto1.uasset'
+[2018.09.11-01.02.31:804][907]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NavePlayerPawn_BP] ([1] browsable assets)...
+[2018.09.11-01.02.31:804][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NavePlayerPawn_BP]
+[2018.09.11-01.02.31:820][907]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP_Auto187EEB7FE4E3C1775C13A3EBF2F7DED2A.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Autosaves/Game/Blueprints/NavePlayerPawn_BP_Auto1.uasset'
+[2018.09.11-01.02.31:823][907]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Paper2D/Animations/NaveP_Animation] ([1] browsable assets)...
+[2018.09.11-01.02.31:823][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Paper2D/Animations/NaveP_Animation]
+[2018.09.11-01.02.31:836][907]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NaveP_Animation_Auto14175035A4F5488503111F49D4883161F.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Autosaves/Game/Assets/Paper2D/Animations/NaveP_Animation_Auto1.uasset'
+[2018.09.11-01.02.31:839][907]LogFileHelpers: Auto-saving content packages took 0.145
+[2018.09.11-01.02.51:487][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Animations/NaveP_Animation" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Animations/NaveP_Animation.uasset" SILENT=true
+[2018.09.11-01.02.51:497][244]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NaveP_Animation59F7F69B49B485D5A2A35797BF9A4812.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Animations/NaveP_Animation.uasset'
+[2018.09.11-01.03.29:376][770]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.03.29:857][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.03.29:879][803]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BPC5B99F6F400BCAD4CB6CF7A160D1B6DA.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.04.18:233][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.04.18:299][472]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.04.18:812][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.04.18:829][509]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP71819E064C61DF60102286958FCF7C50.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.05.00:797][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.05.06:003][158]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-01.05.11:913][813]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.05.19:507][700]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-01.05.24:777][318]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.05.31:505][114]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-01.05.33:372][325]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.05.35:867][614]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-01.05.38:763][947]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.05.41:642][282]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-01.05.43:297][468]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.05.45:270][694]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-01.05.49:757][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.05.49:832][228]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-01.05.49:845][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-01.05.49:845][228]PIE: New page: PIE session: GameMap (Sep 10, 2018, 7:05:49 PM)
+[2018.09.11-01.05.49:845][228]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-01.05.49:847][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002331s)
+[2018.09.11-01.05.49:848][228]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-01.05.49:849][228]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2018.09.11-01.05.49:849][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003573s)
+[2018.09.11-01.05.49:918][228]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-01.05.49:929][228]LogInit: FAudioDevice initialized.
+[2018.09.11-01.05.49:962][228]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-01.05.49:963][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-22.05.49
+[2018.09.11-01.05.49:991][228]LogWorld: Bringing up level for play took: 0.027725
+[2018.09.11-01.05.50:003][228]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.399
+[2018.09.11-01.05.54:755][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.05.54:790][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-01.05.54:813][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.05.54:860][800]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.09.11-01.05.57:630][131]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.06.01:178][549]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.11-01.06.01:961][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.06.03:222][779]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-01.06.03:234][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-01.06.03:234][779]PIE: New page: PIE session: GameMap (Sep 10, 2018, 7:06:03 PM)
+[2018.09.11-01.06.03:234][779]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-01.06.03:237][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002243s)
+[2018.09.11-01.06.03:237][779]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-01.06.03:238][779]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2018.09.11-01.06.03:238][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003287s)
+[2018.09.11-01.06.03:307][779]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-01.06.03:318][779]LogInit: FAudioDevice initialized.
+[2018.09.11-01.06.03:351][779]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-01.06.03:352][779]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-22.06.03
+[2018.09.11-01.06.03:353][779]LogWorld: Bringing up level for play took: 0.000841
+[2018.09.11-01.06.03:365][779]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.239
+[2018.09.11-01.06.06:254][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.06.06:290][123]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-01.06.06:314][123]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.06.06:361][128]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.09.11-01.06.17:049][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.06.17:115][667]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap9A35F5B540E543A4A65018AE59567482.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.06.17:148][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.06.17:173][667]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltDataABC2D689444710C87A4B22BA2A3613BD.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.06.18:029][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.06.18:080][768]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMapDBDB8DDD434C02162964C2849CCBE417.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.06.18:103][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.06.18:120][768]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData50445982448D27EBBCE84DB421D61822.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.07.47:321][491]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/NavePlayerPawn_BP.NavePlayerPawn_BP
+[2018.09.11-01.11.54:055][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.11.54:113][372]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMapB219ADEB4F237108FF54499905D9AC66.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.11.54:136][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.11.54:158][372]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData4BC0814E48739E95E21C90B7AB600113.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.11.57:715][672]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.11-01.11.57:783][673]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Invaders
+[2018.09.11-01.11.57:783][673]LogTemp: CWD: F:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-01.11.57:783][673]LogTemp: Initial Dir: F:\Program Files (x86)\Epic Games\UE_4.20
+[2018.09.11-01.11.57:783][673]LogTemp: Env CWD: F:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-01.11.57:783][673]LogTemp: BranchPath = DESKTOP-Q137DVE/F/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-Q137DVE/F/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.11-01.11.57:809][674]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\yuric\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.11-01.13.32:276][940]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.11-01.13.32:963][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.13.33:017][ 18]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMapABF38F594BF48B2AA4D3878831D8FBD9.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.13.33:039][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.13.33:055][ 18]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData0C03CCE9473EC2D0E231F3ADC4C211AC.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.14.28:591][139]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.14.29:036][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.14.29:076][171]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BPA6187D4845762EE1A9A19EBC4C468166.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.15.21:182][631]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.11-01.15.21:246][632]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Invaders
+[2018.09.11-01.15.21:246][632]LogTemp: CWD: F:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-01.15.21:246][632]LogTemp: Initial Dir: F:\Program Files (x86)\Epic Games\UE_4.20
+[2018.09.11-01.15.21:246][632]LogTemp: Env CWD: F:\Program Files (x86)\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.09.11-01.15.21:247][632]LogTemp: BranchPath = DESKTOP-Q137DVE/F/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-Q137DVE/F/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries
+[2018.09.11-01.15.21:272][633]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\yuric\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.11-01.16.25:058][237]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.11-01.16.25:061][237]LogSlate: Window 'Project Settings' being destroyed
+[2018.09.11-01.17.43:308][529]LogSlate: Took 0.019991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.11-01.20.40:150][363]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-01.20.44:681][901]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.20.51:427][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.21.50:452][844]LogClass: Warning: Type mismatch in NaveSpeed of SKEL_NavePlayerPawn_BP_C - Previous (StructProperty) Current(FloatProperty) for package:  FObjectReader
+[2018.09.11-01.22.16:669][683]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.22.17:336][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.22.17:366][739]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP8B0178334A179F4BBBE4E38DE9695A7B.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.22.20:253][ 82]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-01.22.20:270][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-01.22.20:270][ 82]PIE: New page: PIE session: GameMap (Sep 10, 2018, 7:22:20 PM)
+[2018.09.11-01.22.20:270][ 82]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-01.22.20:272][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002446s)
+[2018.09.11-01.22.20:273][ 82]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-01.22.20:274][ 82]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.09.11-01.22.20:274][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003645s)
+[2018.09.11-01.22.20:318][ 82]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-01.22.20:330][ 82]LogInit: FAudioDevice initialized.
+[2018.09.11-01.22.20:359][ 82]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-01.22.20:360][ 82]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-22.22.20
+[2018.09.11-01.22.20:361][ 82]LogWorld: Bringing up level for play took: 0.000853
+[2018.09.11-01.22.20:374][ 82]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap 0.769
+[2018.09.11-01.22.26:426][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.22.26:464][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-01.22.26:490][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.22.26:526][808]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.09.11-01.22.28:763][ 75]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-01.22.29:401][147]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.22.33:652][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-01.22.37:506][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.22.37:578][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.22.37:640][117]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap8E0A9ABA47A1DDBE29FAB2AFBC311184.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.22.37:666][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.22.37:688][117]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData00FFF580446B6692C05B2AAE7280B6D0.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.22.38:674][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.22.38:765][245]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-01.22.38:778][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-01.22.38:778][245]PIE: New page: PIE session: GameMap (Sep 10, 2018, 7:22:38 PM)
+[2018.09.11-01.22.38:778][245]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-01.22.38:781][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002429s)
+[2018.09.11-01.22.38:781][245]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-01.22.38:782][245]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2018.09.11-01.22.38:782][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003530s)
+[2018.09.11-01.22.38:823][245]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-01.22.38:835][245]LogInit: FAudioDevice initialized.
+[2018.09.11-01.22.38:866][245]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-01.22.38:867][245]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-22.22.38
+[2018.09.11-01.22.38:868][245]LogWorld: Bringing up level for play took: 0.000776
+[2018.09.11-01.22.38:880][245]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.724
+[2018.09.11-01.22.46:941][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.22.46:976][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-01.22.46:999][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.22.47:043][213]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.09.11-01.22.49:601][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.23.11:915][666]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.23.12:415][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.23.12:440][704]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BPB1584A354858436C9A9EB5932382A303.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.23.14:651][968]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-01.23.14:670][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-01.23.14:670][968]PIE: New page: PIE session: GameMap (Sep 10, 2018, 7:23:14 PM)
+[2018.09.11-01.23.14:670][968]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-01.23.14:673][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002501s)
+[2018.09.11-01.23.14:673][968]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-01.23.14:673][968]LogPlayLevel: PIE: World Init took: (0.000814s)
+[2018.09.11-01.23.14:674][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003445s)
+[2018.09.11-01.23.14:717][968]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-01.23.14:729][968]LogInit: FAudioDevice initialized.
+[2018.09.11-01.23.14:762][968]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-01.23.14:763][968]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-22.23.14
+[2018.09.11-01.23.14:763][968]LogWorld: Bringing up level for play took: 0.000763
+[2018.09.11-01.23.14:776][968]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.829
+[2018.09.11-01.23.29:641][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.23.29:680][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-01.23.29:706][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.23.29:742][749]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.09.11-01.23.38:366][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.23.42:641][290]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-01.23.46:566][756]LogEditorViewport: Clicking on Actor (LMB): BackgroundActor_BP_C (BackgroundActor_BP)
+[2018.09.11-01.23.56:372][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.25.54:317][420]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.25.56:649][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-01.25.59:414][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.26.01:284][249]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-01.26.01:297][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-01.26.01:298][249]PIE: New page: PIE session: GameMap (Sep 10, 2018, 7:26:01 PM)
+[2018.09.11-01.26.01:298][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-01.26.01:300][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002526s)
+[2018.09.11-01.26.01:301][249]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-01.26.01:301][249]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.09.11-01.26.01:301][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003518s)
+[2018.09.11-01.26.01:346][249]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-01.26.01:358][249]LogInit: FAudioDevice initialized.
+[2018.09.11-01.26.01:388][249]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-01.26.01:389][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-22.26.01
+[2018.09.11-01.26.01:389][249]LogWorld: Bringing up level for play took: 0.000721
+[2018.09.11-01.26.01:402][249]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.203
+[2018.09.11-01.26.04:913][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.26.04:948][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-01.26.04:972][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.26.05:016][671]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.09.11-01.26.08:641][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.26.25:683][636]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.26.26:197][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.26.26:221][675]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BPE1F451DF461BE584F86E5B8BB0F1F6E4.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.26.27:406][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.26.27:459][815]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap7E63C51C4AC435007C03AAAD67FCC81C.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.26.27:486][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.26.27:504][815]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData0D1356504F508EFD552D21AA4561BD76.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.26.28:359][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.26.28:446][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.26.28:501][926]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap570DAD26406441E8F4F734B882DBF025.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.26.28:526][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.26.28:543][926]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData7A913F65427775DCDE477F8E45EB7C63.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.26.29:555][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.27.59:594][ 48]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.09.11-01.27.59:594][ 48]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.09.11-01.27.59:594][ 48]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.09.11-01.27.59:594][ 48]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.09.11-01.27.59:594][ 48]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2018.09.11-01.28.12:045][538]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.28.12:466][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.28.12:499][567]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP8F8CFB6147746F75F6D25399F04E7D0A.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.30.42:479][500]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.30.43:051][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.30.43:084][545]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP4D05EFEF4BDDCDBD2C8BE995B9E943C6.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.30.45:052][779]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.30.45:602][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.30.45:635][822]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP8F02C01A4014BDEF4B6B8BBD0226C928.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.31.00:347][585]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.31.00:880][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.31.00:914][626]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP19D711324CB820A6C3DC1CA01941EFC3.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.31.04:731][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-01.31.04:752][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-01.31.04:752][ 80]PIE: New page: PIE session: GameMap (Sep 10, 2018, 7:31:04 PM)
+[2018.09.11-01.31.04:752][ 80]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-01.31.04:755][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002789s)
+[2018.09.11-01.31.04:755][ 80]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-01.31.04:756][ 80]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2018.09.11-01.31.04:756][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003928s)
+[2018.09.11-01.31.04:795][ 80]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-01.31.04:807][ 80]LogInit: FAudioDevice initialized.
+[2018.09.11-01.31.04:840][ 80]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-01.31.04:841][ 80]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-22.31.04
+[2018.09.11-01.31.04:841][ 80]LogWorld: Bringing up level for play took: 0.000753
+[2018.09.11-01.31.04:854][ 80]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.75
+[2018.09.11-01.31.12:324][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.31.12:363][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-01.31.12:385][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.31.12:429][977]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.09.11-01.31.17:933][636]LogEditorViewport: Clicking on Actor (LMB): NavePlayerPawn_BP_C (NavePlayerPawn_BP)
+[2018.09.11-01.31.20:800][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.11-01.31.23:042][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.11-01.32.00:613][682]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.32.01:109][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.32.01:162][716]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP1D8F24E64765C473903F538D7115BFFE.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.32.03:888][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.32.03:946][ 37]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMapDF24CBD74832353FD1612980FF28286C.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.32.03:973][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.32.03:996][ 37]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData106B1F2848A6AC10E3B09D80B6B12DB5.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.32.04:987][154]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.11-01.32.05:007][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.11-01.32.05:007][154]PIE: New page: PIE session: GameMap (Sep 10, 2018, 7:32:05 PM)
+[2018.09.11-01.32.05:007][154]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_GameMap
+[2018.09.11-01.32.05:009][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002372s)
+[2018.09.11-01.32.05:010][154]LogAIModule: Creating AISystem for world GameMap
+[2018.09.11-01.32.05:010][154]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.09.11-01.32.05:010][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/GameMap.GameMap to /Game/Maps/UEDPIE_0_GameMap.GameMap (0.003348s)
+[2018.09.11-01.32.05:052][154]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.11-01.32.05:064][154]LogInit: FAudioDevice initialized.
+[2018.09.11-01.32.05:099][154]LogLoad: Game class is 'NaveGameMode_BP_C'
+[2018.09.11-01.32.05:100][154]LogWorld: Bringing World /Game/Maps/UEDPIE_0_GameMap.GameMap up for play (max tick rate 0) at 2018.09.10-22.32.05
+[2018.09.11-01.32.05:100][154]LogWorld: Bringing up level for play took: 0.000700
+[2018.09.11-01.32.05:113][154]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_GameMap -0.492
+[2018.09.11-01.32.08:066][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.32.08:102][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.09.11-01.32.08:127][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.11-01.32.08:166][509]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.09.11-01.33.41:953][934]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.33.42:380][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.33.42:423][961]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP6506F6124BFB3F2461F170A0D608D2E6.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.33.45:099][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.33.45:152][280]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap833343A64DC6C802170F47AFEBDFD947.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.33.45:179][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.33.45:196][280]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltDataA9AFC260466CA29A6D3E50A92DCC2BAA.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.34.14:349][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.34.14:400][468]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMapF596D7354D4354E8F3FFF4B6E1F17D3A.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.34.14:424][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap_BuiltData" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset" SILENT=true
+[2018.09.11-01.34.14:440][468]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMap_BuiltData5AF7FFC74ED06F15795317B8D5E840F5.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap_BuiltData.uasset'
+[2018.09.11-01.34.15:460][590]BlueprintLog: New page: Compile NavePlayerPawn_BP
+[2018.09.11-01.34.15:971][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NavePlayerPawn_BP" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset" SILENT=true
+[2018.09.11-01.34.16:007][627]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/NavePlayerPawn_BP7E608CC447912058479CF7A3111B8F48.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Blueprints/NavePlayerPawn_BP.uasset'
+[2018.09.11-01.34.21:432][753]LogSlate: Window 'Save Content' being destroyed
+[2018.09.11-01.34.21:450][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Sprite1_1_aviao_Sprite_0" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_1_aviao_Sprite_0.uasset" SILENT=true
+[2018.09.11-01.34.21:459][753]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_1_aviao_Sprite_0FB33E19842B1160931A915AE4C46C5B1.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_1_aviao_Sprite_0.uasset'
+[2018.09.11-01.34.21:479][753]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_2_nave_inimiga_Sprite_0498B501042FA8C572F14A782A213BF07.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_2_nave_inimiga_Sprite_0.uasset'
+[2018.09.11-01.34.21:488][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Sprite1_3_tiro_Sprite_0" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_3_tiro_Sprite_0.uasset" SILENT=true
+[2018.09.11-01.34.21:497][753]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_3_tiro_Sprite_0A3DED096419F17C04CCE2E8689FCBB17.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_3_tiro_Sprite_0.uasset'
+[2018.09.11-01.34.21:507][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Paper2D/Sprite1_4_vidas_Sprite_0" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_4_vidas_Sprite_0.uasset" SILENT=true
+[2018.09.11-01.34.21:515][753]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/Sprite1_4_vidas_Sprite_08C17B8884B5CB005D52C86BB31A02CDC.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Assets/Paper2D/Sprite1_4_vidas_Sprite_0.uasset'
+[2018.09.11-01.34.22:838][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GameMap" FILE="C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.11-01.34.22:894][753]LogSavePackage: Moving 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Saved/GameMapAC82C732485D8A0E3B777D871303EE71.tmp' to 'C:/Users/yuric/Documents/Unreal Projects/Invaders/Content/Maps/GameMap.umap'
+[2018.09.11-01.34.22:919][753]LogFileHelpers: Saving map 'GameMap' took 1.395
+[2018.09.11-01.34.23:045][753]LogSlate: Window 'Invaders - Unreal Editor' being destroyed
+[2018.09.11-01.34.23:046][753]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.11-01.34.23:215][754]Cmd: QUIT_EDITOR
+[2018.09.11-01.34.23:482][754]LogExit: Preparing to exit.
+[2018.09.11-01.34.24:011][754]LogExit: Editor shut down
+[2018.09.11-01.34.24:011][754]LogExit: Transaction tracking system shut down
+[2018.09.11-01.34.24:470][754]LogExit: Object subsystem successfully closed.
+[2018.09.11-01.34.24:486][754]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.11-01.34.24:490][754]LogD3D11RHI: Shutdown
+[2018.09.11-01.34.24:490][754]LogD3D11RHI: CleanupD3DDevice
+[2018.09.11-01.34.24:492][754]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.11-01.34.24:548][754]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (622)
+[2018.09.11-01.34.24:548][754]LogModuleManager: Shutting down and abandoning module Voice (620)
+[2018.09.11-01.34.24:548][754]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2018.09.11-01.34.24:548][754]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (616)
+[2018.09.11-01.34.24:548][754]LogModuleManager: Shutting down and abandoning module TextureEditor (614)
+[2018.09.11-01.34.24:548][754]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.09.11-01.34.24:548][754]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.09.11-01.34.24:548][754]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.09.11-01.34.24:549][754]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.09.11-01.34.24:549][754]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.09.11-01.34.24:549][754]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.09.11-01.34.24:549][754]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2018.09.11-01.34.24:549][754]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.09.11-01.34.24:549][754]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.09.11-01.34.24:549][754]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.09.11-01.34.24:550][754]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.09.11-01.34.24:551][754]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.09.11-01.34.25:297][754]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.09.11-01.34.25:298][754]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.09.11-01.34.25:298][754]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.09.11-01.34.25:298][754]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.09.11-01.34.25:298][754]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.09.11-01.34.25:298][754]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.09.11-01.34.25:298][754]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.09.11-01.34.25:298][754]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.09.11-01.34.25:351][754]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.09.11-01.34.25:356][754]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.09.11-01.34.25:356][754]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.09.11-01.34.25:357][754]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.09.11-01.34.25:357][754]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.09.11-01.34.25:357][754]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.09.11-01.34.25:357][754]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.09.11-01.34.25:357][754]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.09.11-01.34.25:357][754]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.09.11-01.34.25:358][754]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.09.11-01.34.25:462][754]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.09.11-01.34.25:465][754]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.09.11-01.34.25:466][754]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.09.11-01.34.25:467][754]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.09.11-01.34.25:568][754]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.09.11-01.34.25:668][754]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.11-01.34.25:668][754]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.11-01.34.25:668][754]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.11-01.34.25:668][754]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.11-01.34.25:668][754]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.11-01.34.25:668][754]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.11-01.34.25:668][754]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.11-01.34.25:669][754]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.11-01.34.25:669][754]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.11-01.34.25:669][754]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.11-01.34.25:669][754]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.11-01.34.25:669][754]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.11-01.34.25:671][754]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.11-01.34.25:671][754]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.11-01.34.25:671][754]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.11-01.34.25:671][754]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.11-01.34.25:671][754]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.11-01.34.25:671][754]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.11-01.34.25:674][754]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.11-01.34.25:679][754]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.11-01.34.25:680][754]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.11-01.34.25:680][754]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.11-01.34.25:681][754]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.11-01.34.25:681][754]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.11-01.34.25:682][754]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.11-01.34.25:700][754]LogDerivedDataCache: Shutdown
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.11-01.34.25:700][754]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.11-01.34.25:701][754]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.11-01.34.25:702][754]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.11-01.34.25:702][754]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.11-01.34.25:703][754]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.11-01.34.25:703][754]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.11-01.34.25:716][754]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.11-01.34.25:717][754]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.11-01.34.25:717][754]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.11-01.34.25:717][754]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.11-01.34.25:731][754]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.11-01.34.25:731][754]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.11-01.34.25:731][754]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BED4D1263-4913-776F-FCEA-ECA69CC76E1D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=76bf9536421d2c2e1b77528cba8e9e7e%7C46319e41d3cf4020abbed2f74acd440f%7C32214daf-1747-41f6-a7d0-34b1012ce674&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.11-01.34.25:737][754]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.11-01.34.25:738][754]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.11-01.34.25:738][754]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.11-01.34.25:739][754]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.11-01.34.25:745][754]LogExit: Exiting.
+[2018.09.11-01.34.25:771][754]Log file closed, 09/10/18 22:34:25
